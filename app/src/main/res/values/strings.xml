@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CryptoCurrency</string>
+    <string name="splash_information">Turkey\'s Highly Rated Cryptocurrency Exchange</string>
+    <string name="card_title">Welcome Jack</string>
+    <string name="card_description">Make you first Investment today</string>
+    <string name="card_button_text">Invest Today</string>
+    <string name="trending_coins">Trending Coins</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="btc">BTC</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="eth">ETH</string>
+    <string name="band_protocol">Band Protocol</string>
+    <string name="band">BAND</string>
+    <string name="cardano">Cardano</string>
+    <string name="ada">ADA</string>
+    <string name="tron">Tron</string>
+    <string name="tron_desc">TRX</string>
+    <string name="tether">Tether</string>
+    <string name="usdt">USDT</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="holding_value">Holding value</string>
+    <string name="invested_value">Invested value</string>
+    <string name="available_inr">Available TRY</string>
+    <string name="val1">0.0004586 BTC</string>
+    <string name="val2">18.98 ETH</string>
+    <string name="val3">10.589 BAND</string>
+    <string name="val4">5.485 ADA</string>
+    <string name="val5">0.000789 TRX</string>
+    <string name="val6">11.7465 USDT</string>
+    <string name="deposit_inr">Deposit INR</string>
+    <string name="withdraw_inr">Withdraw INR</string>
+    <string name="your_coins">Your coins</string>
+    <string name="market_down">Market is down</string>
+    <string name="past_24_hours">In the past 24 hours</string>
+    <string name="history">History</string>
+    <string name="bank_details">Bank details</string>
+    <string name="notifications">Notifications</string>
+    <string name="security">Security</string>
+    <string name="help_support">Help and Support</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="refer_now">Refer Now</string>
+    <string name="share_now">Share Now</string>
+
+</resources>
